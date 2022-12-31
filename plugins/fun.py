@@ -27,9 +27,9 @@ async def reload_prompts(client, event):
   except JSONDecodeError as e:
     yield f"Got a `JSONDecodeError`! Error:```python\n{str(e)}```"
 
-@Chaos.interactions(is_global=True)
-async def incorrect_quote_generator(client, event, a: desc, b: desc=None,
-    c: desc=None, d: desc=None, e: desc=None, f: desc=None):
+def quote_generator(a: desc, b: desc=None,
+    c: desc=None, d: desc=None, e: desc=None, f: desc=None,
+    exclude_ships: bool=False):
   """An incorrect quote generator command!"""
   count = 1
 
@@ -60,7 +60,13 @@ async def incorrect_quote_generator(client, event, a: desc, b: desc=None,
 
   prompt = ""
 
-  for line in randchoice(prompts[str(count)]):
+  key = randchoice(list(prompts[str(count)]))
+
+  if exclude_ships:
+    if prompts[str(count)][key]['ship']:
+      return quote_generator(a, b, c, d, e, f, exclude_ships)
+
+  for line in prompts[str(count)][key]['lines']:
     prompt += line.strip() + '\n'
 
   while prompt.endswith('\n'):
@@ -74,4 +80,17 @@ async def incorrect_quote_generator(client, event, a: desc, b: desc=None,
   if e: prompt = prompt.replace('{E}', e)
   if f: prompt = prompt.replace('{F}', f)
 
-  return Embed(title="Incorrect Quote!", description=prompt, color=Color.random())
+  e = Embed(title="Incorrect Quote!", description=prompt, color=Color.random())
+
+  e.add_footer(f"Prompt key: {key}")
+
+  if prompts[str(count)][key]['author'] != 'N/A':
+    e.add_author(f"Prompt from {prompts[str(count)][key]['author']}")
+
+  return e
+
+@Chaos.interactions(is_global=True)
+async def incorrect_quote_generator(a: desc, b: desc=None,
+    c: desc=None, d: desc=None, e: desc=None, f: desc=None,
+    exclude_ships: bool=False):
+  return quote_generator(a, b, c, d, e, f, exclude_ships)
