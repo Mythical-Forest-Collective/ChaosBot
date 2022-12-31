@@ -141,8 +141,8 @@
       ],
       [
          "(Prompt from The Priors)",
-         "{A}: [voiceover] As dawn broke, the peace and serenity of this beautiful Ugandan morning was shattered by the bellow of a wild animal.",
-         "{B}: [positively furious] {A}!!!"
+         "{A}: [Voiceover] As dawn broke, the peace and serenity of this beautiful Ugandan morning was shattered by the bellow of a wild animal.",
+         "{B}: [Positively *furious*] ***{A}!!!***"
       ],
       [
          "(Prompt from The Priors)",
@@ -164,8 +164,8 @@
          "{B}: The only dangerous amount of is none!"
       ],
       [
-         "{A}: Hey {B}! Nice hair.",
-         "{A}: [internally] Oh my god, the first piece of positive reinforcement I've received in 6 months. Respond appropriately.",
+         "{A}: Hey {B}! Nice hair!",
+         "{B}: [internally] Oh my god, the first piece of positive reinforcement I've received in 6 months. Respond appropriately.",
          "{B}: Thank you, I grew it myself.",
          "{B}: [internally] DAMNIT!"
       ],
@@ -583,7 +583,7 @@
       [
          "{A}: I'm a reverse necromancer.",
          "{B}: Isn't that just killing people?",
-         "{A}: Ah, technicality."
+         "{A}: Ah, technicalities."
       ],
       [
          "{A}: Can you keep a secret?",
@@ -767,7 +767,7 @@
          "{B}: Twelve, actually.",
          "{A}: Not the point. Look, they're dead now and really whose fault is that?",
          "{B}: Yours!",
-         "{A}: That's right: no one's."
+         "{A}: That's right: No-one's!"
       ],
       [
          "{A}: What are your goals?",
@@ -911,16 +911,16 @@
          " {C}: For the last time, get the fuck out."
       ],
       [
-         "{A}: HELP! I TOLD {I} I’D COOK DINNER TONIGHT BUT I CAN’T COOK! ",
-         " {B}, pouring milk directly into the cereal bag: And you thought I could help?"
+         "{A}: HELP! I TOLD {C} I’D COOK DINNER TONIGHT BUT I CAN’T COOK! ",
+         "{B}, pouring milk directly into the cereal bag: And you thought I could help?"
       ],
       [
-         "{A}: {B} and I don’t use pet names. ",
-         " {C}: I see. Hey, what do bees make? ",
-         " {A}: Honey? ",
-         " {B}: Yes, dear? ",
-         " {A}: ",
-         " {C}: Don't ever lie to my face again."
+         "{A}: {B} and I don’t use pet names.",
+         "{C}: I see. Hey, what do bees make?",
+         "{A}: Honey?",
+         "{B}: Yes, dear?",
+         "{A}:",
+         "{C}: Don't ever lie to my face again."
       ],
       [
          "{A}: I know you snuck out last night, {B}. ",
@@ -947,7 +947,7 @@
          " {B}: {C}! ",
          " {A}: 63 cents. ",
          " {C}: I'll take the money. ",
-         " {B}: ***{I}!!!***"
+         " {B}: ***{C}!!!***"
       ],
       [
          "{A}: We need to get through this locked door. {B}, give me your credit card. ",
@@ -1101,10 +1101,10 @@
          "{B}: In fact, I'm gonna stack this gym! With fuckin pros!",
          "{B}: It's- It's gonna be brutal. It's gonna be a torture gym.",
          "{C}: Well- Well what's the theme? Are you like- is it a bug theme, or like-",
-         "{B}: YEAH, {I}. UH- UH- UH- UH YEAH {I}. IM GONNA OPEN UP A *BUG TYPE* POKEMON GYM. YOU ***IDIOT***.",
+         "{B}: YEAH, {C}. UH- UH- UH- UH YEAH {C}. IM GONNA OPEN UP A *BUG TYPE* POKEMON GYM. YOU ***IDIOT***.",
          "{B}: YEAH THAT'S WHAT I WANT, BECAUSE I WANNA GIVE- I WANNA SHIT OUT BADGES FOR EVERY HAM AND EGGER THAT COMES TO MY FRONT DOOR.",
          "{A}: *Cracking up*",
-         "{B}: YEAH, {I}. 'Uhh, go Caterpie! >~>' That's me, you FUCKING imbecile. 'Yeah go- uhhh- d-do your best, Kakuna!'",
+         "{B}: YEAH, {C}. 'Uhh, go Caterpie! >~>' That's me, you FUCKING imbecile. 'Yeah go- uhhh- d-do your best, Kakuna!'",
          "{B}: WHAT ARE YOU FUCKING TALKING ABOU- Yeah a ~bug type~ gym.",
          "{C}:",
          "{A}: Okaaay-",
@@ -1163,7 +1163,7 @@
          "{C}: Whoa, whoa, wait, you think I’m only worth ten thousand dollars?",
          "{A}:",
          "{C}: MAKE IT ONE MILLION–",
-         "{A}: {I} STOP"
+         "{A}: {C} STOP"
       ],
       [
          "{A}: Here’s a fun Christmas idea. We hang mistletoe, but instead of kissing, you have to FIGHT whoever else is under it.",
@@ -1556,7 +1556,7 @@
       [
          "{A}: You lying, cheating, piece of shit!",
          "{B}: Oh yeah? You’re the idiot who thinks you can get away with everything you do. WELCOME TO THE REAL WORLD",
-         "{A}: I’m leaving you, and I’M TAKING {I} WITH ME",
+         "{A}: I’m leaving you, and I’M TAKING {C} WITH ME",
          "{D}, picking up the monopoly board: I think we’re gonna stop playing now."
       ],
       [
@@ -1877,15 +1877,15 @@
          " {F}: I have emotional scars."
       ],
       [
-         "{A}: Who the fuck added me to a fucking group chat? ",
-         " {B}: >:O language ",
-         " {C}: Yeah watch your fucking language ",
-         " {D}: OKAY WHO TAUGHT {I} THE FUCK WORD? ",
-         " {E}: 'The fuck word'. ",
-         " {F}: Are you stupid? You guys use the f word all the time ",
-         " {C}: Oh my god they censored it ",
-         " {E}: Say fuck, {F}. ",
-         " {C}: Do it, {F}. Say fuck."
+         "{A}: Who the fuck added me to a fucking group chat?",
+         "{B}: >:O language!",
+         "{C}: Yeah watch your fucking language",
+         "{D}: OKAY WHO TAUGHT {C} THE FUCK WORD?",
+         "{E}: 'The fuck word'.",
+         "{F}: Are you stupid? You guys use the f word all the time.",
+         "{C}: Oh my god they censored it-",
+         "{E}: Say fuck, {F}.",
+         "{C}: Do it, {F}. Say fuck."
       ],
       [
          "{A}: Rules are made to be broken. ",
