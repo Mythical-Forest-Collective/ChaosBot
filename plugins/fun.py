@@ -11,6 +11,20 @@ with open('prompts.json') as f:
 desc = ('str', 'Name for the generator')
 
 @Chaos.interactions(is_global=True)
+async def reload_prompts(client, event):
+  global prompts
+  if not client.is_owner(event.user):
+    yield "You don't have the permissions to do this!"
+    return
+
+  yield "Reloading the prompts..."
+
+  with open('prompts.json') as f:
+    prompts = jload(f)
+
+  yield "Done!"
+
+@Chaos.interactions(is_global=True)
 async def incorrect_quote_generator(client, event, a: desc, b: desc=None,
     c: desc=None, d: desc=None, e: desc=None, f: desc=None):
   """An incorrect quote generator command!"""
@@ -46,7 +60,8 @@ async def incorrect_quote_generator(client, event, a: desc, b: desc=None,
   for line in randchoice(prompts[str(count)]):
     prompt += line.strip() + '\n'
 
-  prompt = prompt[:-2]
+  while prompt.endswith('\n'):
+    prompt = prompt[:-1]
 
   prompt = prompt.replace('{A}', a)
 

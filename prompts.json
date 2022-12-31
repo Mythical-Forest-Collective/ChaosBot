@@ -132,6 +132,21 @@
    "2" : [
       [
          "(Prompt from The Priors)",
+         "{A}: I'm trying to be killed by lightning!",
+         "{B}: What?",
+         "{A}: I'm trying to be killed by lightning!",
+         "{B}: Sorry?",
+         "{A}: ...Are you deaf?!",
+         "{B}: Sorry?",
+
+      ],
+      [
+         "(Prompt from The Priors)",
+         "{A}: [voiceover] As dawn broke, the peace and serenity of this beautiful Ugandan morning was shattered by the bellow of a wild animal.",
+         "{B}: [positively furious] {A}!!!"
+      ],
+      [
+         "(Prompt from The Priors)",
          "[after {B} has compared the Tata Nano to Pikachu]",
          "{A}: Is that a punkawallah?",
          "{B}: Pokémon.",
@@ -302,24 +317,24 @@
       ],
       [
          "{A}: Lol heads up if you try to make a candle with food coloring, the food coloring will just sink to the bottom of the glass, and when the flame eventually reaches the bottom all the food coloring will catch fire and become one giant tall flame that you cannot possibly blow out and the glass will start to crack and then you'll throw your tea on it in a panic and then the extremely hot food coloring will boil and sizzle horribly and then the glass will shatter. Please take my word on this lmfao ",
-         " {B}: What did you do op? ",
-         " {A}: A MISTAKE"
+         "{B}: What did you do {A}?",
+         "{A}: A MISTAKE!"
       ],
       [
          "{A}: Look. I may not be a saint, but it's not like I’ve killed anybody. I’m not an arsonist. I’ve never found a wallet outside of an IHOP and thought about returning it but saw the owner lived out of state so just took the cash and dropped the wallet back on the ground. ",
-         " {B}: Okay, that's really specific, and that makes me think that you definitely did do that."
+         "{B}: Okay, that's really specific, and that makes me think that you definitely did do that."
       ],
       [
          "{A}: A theif. ",
-         " {B}: Thief? ",
-         " {A}: Theif. ",
-         " {B}: I before E, except after C. ",
-         " {A}: Thceif. ",
-         " {A}: No."
+         "{B}: Thief? ",
+         "{A}: Theif. ",
+         "{B}: I before E, except after C. ",
+         "{A}: Thceif. ",
+         "{B}: No."
       ],
       [
          "{A}: You know, not every problem can be solved with a sword. ",
-         " {B}: That's why I carry two swords."
+         "{B}: That's why I carry two swords."
       ],
       [
          "{A}: God, give me patience. ",
@@ -860,7 +875,7 @@
          "{A}: With your best mate's mobile phone."
       ],
       [
-         "(Prompt from Daemon)"
+         "(Prompt from Daemon)",
          "{A}: What's the difference between a hippo and a zippo? One's pretty heavy and the other is a little lighter!",
          "{B}: God dammit.",
          "{C}: ***I am going to send you to the deepest pits of hell you little shit-***"
@@ -1307,6 +1322,17 @@
       ]
    ],
    "4" : [
+      [
+         "(Prompt from The Priors)",
+         "{A}: [shouting over the noise] How do we communicate in an emergency?",
+         "{B}: You've got to shout!",
+         "{A}: [louder] Is there a communication cord to stop the train?",
+         "{C}: Yes, yes, yes.",
+         "{B}: Where is it?",
+         "{C}: I'm going to check it, as I'm about to ask the driver, {D}, to slow down a little bit, just while we're serving the drinks.",
+         "[{C} proceeds to open the front window]",
+         "{C}: [shouting] {D}! {D}!!!"
+      ],
       [
          "{B}: Guys, what color would you say {C}'s armor is? ",
          "{D}: Gray? ",
