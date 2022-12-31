@@ -137,8 +137,7 @@
          "{A}: I'm trying to be killed by lightning!",
          "{B}: Sorry?",
          "{A}: ...Are you deaf?!",
-         "{B}: Sorry?",
-
+         "{B}: Sorry?"
       ],
       [
          "(Prompt from The Priors)",
@@ -565,7 +564,7 @@
       [
          "{A}, standing with their back turned: I’ve been expecting you, {B}.",
          "{B}: How did you do that without turning around?",
-         "{A}: ... To be perfectly honest, the first couple of people I did that to were not you."
+         "{A}: ...To be perfectly honest, the first couple of people I did that to were not you."
       ],
       [
          "{A}: Let’s watch Sharkboy and Lavagirl.",
@@ -866,6 +865,13 @@
       ]
    ],
    "3" : [
+      [
+         "(Prompt from The Priors)",
+         "{A}: It has been wrongly assumed that blind people can't drive.",
+         "{C}: Well, they can't.",
+         "{B}: Yeah, realistically they can't...",
+         "{A}: No, no, no. Blind people can drive. Just mostly into things."
+      ],
       [
          "(Prompt from The Priors)",
          "[in a discussion of Bluetooth \"mating\" that's gone horribly wrong]",

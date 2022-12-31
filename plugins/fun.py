@@ -1,6 +1,6 @@
 from hata import Client, Embed, Color
 
-from json import load as jload
+from json import load as jload, JSONDecodeError
 from random import choice as randchoice
 
 Chaos: Client
@@ -19,10 +19,13 @@ async def reload_prompts(client, event):
 
   yield "Reloading the prompts..."
 
-  with open('prompts.json') as f:
-    prompts = jload(f)
+  try:
+    with open('prompts.json') as f:
+      prompts = jload(f)
 
-  yield "Done!"
+    yield "Done!"
+  except JSONDecodeError as e:
+    yield f"Got a `JSONDecodeError`! Error:```python\n{str(e)}```"
 
 @Chaos.interactions(is_global=True)
 async def incorrect_quote_generator(client, event, a: desc, b: desc=None,
