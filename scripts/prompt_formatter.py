@@ -63,9 +63,15 @@ if '{F}' in prompt:
 prompt = prompt.splitlines()
 
 author = input("Input the prompt author: ").strip()
+tags = input("Enter a list of tags separated by a space: ").lower().strip()
+if tags == "":
+  tags = []
+else:
+  tags = tags.split(' ')
+
 if author == "": author = "N/A"
 
-result = {'lines': prompt, 'ship': False, 'author': author}
+result = {'lines': prompt, 'author': author, 'tags': tags}
 
 
 print(f"There are {characters} characters in this prompt. The JSON output is below.")
@@ -92,4 +98,3 @@ while True:
     print("That's an invalid answer!")
 
 print(f"The ID of the prompt is `{id}`")
-

@@ -29,7 +29,7 @@ async def reload_prompts(client, event):
 
 def quote_generator(a: desc, b: desc=None,
     c: desc=None, d: desc=None, e: desc=None, f: desc=None,
-    exclude_ships: bool=False):
+    exclude_tags: ('str', 'A list separated by a space! Valid tags are `ship` and `explicit`.')=""):
   """An incorrect quote generator command!"""
   count = 1
 
@@ -62,9 +62,8 @@ def quote_generator(a: desc, b: desc=None,
 
   key = randchoice(list(prompts[str(count)]))
 
-  if exclude_ships:
-    if prompts[str(count)][key]['ship']:
-      return quote_generator(a, b, c, d, e, f, exclude_ships)
+  if any(item in prompts[str(count)][key]['tags'] for item in exclude_tags.split(' ')):
+    return quote_generator(a, b, c, d, e, f, exclude_tags)
 
   for line in prompts[str(count)][key]['lines']:
     prompt += line.strip() + '\n'
@@ -92,5 +91,5 @@ def quote_generator(a: desc, b: desc=None,
 @Chaos.interactions(is_global=True)
 async def incorrect_quote_generator(a: desc, b: desc=None,
     c: desc=None, d: desc=None, e: desc=None, f: desc=None,
-    exclude_ships: bool=False):
-  return quote_generator(a, b, c, d, e, f, exclude_ships)
+    exclude_tags: ('str', 'Valid tags to exclude in a space-separated format are `ship` and `explicit`.')=False):
+  return quote_generator(a, b, c, d, e, f, exclude_tags)
