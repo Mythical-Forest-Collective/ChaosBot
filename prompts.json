@@ -356,7 +356,10 @@
     "ixgbq",
     "nebte",
     "ewsfx",
-    "vtcuu"
+    "vtcuu",
+    "pizbv",
+    "fqcif",
+    "zvysr"
   ],
   "1": {
     "mleed": {
@@ -2000,6 +2003,15 @@
       ],
       "ship": false,
       "author": "The Priors"
+    },
+    "pizbv": {
+      "lines": [
+        "{A}: So what did you think of your alter ego? Pretty sweet, right?",
+        "{B}: Sweet? They're naked!",
+        "{A}: They're not naked! They're holding a gun. Strategically."
+      ],
+      "ship": true,
+      "author": "The Priors"
     }
   },
   "3": {
@@ -2800,6 +2812,27 @@
         "{B}: It's not a date - it's an undercover operation.",
         "{C}: I don't know why you won't tell me where the party is.",
         "{B}: Because you'll show up."
+      ],
+      "ship": false,
+      "author": "The Priors"
+    },
+    "fqcif": {
+      "lines": [
+        "{B} to {C}: Well, let's put it this way: if you were to be locked inside a phone box for half an hour with: a) a monkey, or b) a lion, there you go! What would you go for?",
+        "{C}: The lion.",
+        "{A} and {B}: What?",
+        "{C}: No, because monkeys, in confined spaces, those Barbary monkeys, they panic and they get really, incredibly violent.",
+        "{A}: I love the way that {C} thinks that monkeys are, in some way, the greatest peril that we're facing... in the next hour of our lives."
+      ],
+      "ship": false,
+      "author": "Ponyboy"
+    },
+    "zvysr": {
+      "lines": [
+        "{A} examining {B} after the car crash: They'll live.",
+        "{C}: What, no brain damage?",
+        "{A}: If they have some, it happened way before tonight and was probably self inflicted.",
+        "{B}: Ahh, good times."
       ],
       "ship": false,
       "author": "The Priors"
