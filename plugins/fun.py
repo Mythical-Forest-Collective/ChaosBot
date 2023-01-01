@@ -75,7 +75,7 @@ def quote_generator(a: desc, b: desc=None,
   prompt = prompt.replace('{A}', a)
 
   if b: prompt = prompt.replace('{B}', b)
-  if c: prompt = prompt.replace('{C}', c)
+  if c: prompt = prompt.replace('{C}', c).replace('{C^}', c.upper())
   if d: prompt = prompt.replace('{D}', d)
   if e: prompt = prompt.replace('{E}', e)
   if f: prompt = prompt.replace('{F}', f)

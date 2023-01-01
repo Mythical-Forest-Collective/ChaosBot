@@ -637,15 +637,15 @@
     },
     "osxqr": {
       "lines": [
-        "{A}: [Voiceover] As dawn broke, the peace and serenity of this beautiful Ugandan morning was shattered by the bellow of a wild animal.",
-        "{B}: [Positively *furious*] ***{A}!!!***"
+        "{A}'s voiceover: As dawn broke, the peace and serenity of this beautiful Ugandan morning was shattered by the bellow of a wild animal.",
+        "{B}, Positively *furious*: ***{A}!!!***"
       ],
       "ship": false,
       "author": "The Priors"
     },
     "xarug": {
       "lines": [
-        "[after {B} has compared the Tata Nano to Pikachu]",
+        "[After {B} has compared the Tata Nano to Pikachu]",
         "{A}: Is that a punkawallah?",
         "{B}: Pokémon.",
         "{A}: I meant that."
@@ -874,10 +874,10 @@
     },
     "berkw": {
       "lines": [
-        "{A}: What if the 'g' in 'gif' is silent? ",
-        " {B}: Go the fuck to sleep ",
-        " {A}: What gif I don't want to? ",
-        " {B}: Fuck You"
+        "{A}: What if the 'g' in 'gif' is silent?",
+        "{B}: Go the fuck to sleep",
+        "{A}: What gif I don't want to?",
+        "{B}: Fuck you."
       ],
       "ship": false,
       "author": "N/A"
@@ -1163,8 +1163,8 @@
     "plkyr": {
       "lines": [
         "{A}: Treat spiders the way you want to be treated.",
-        "{B}: Killed without hesitation.",
-        "{A}: No."
+        "{B}: Killed without hesitation!",
+        "{A}: *No!*"
       ],
       "ship": false,
       "author": "N/A"
@@ -1457,7 +1457,7 @@
         "{B}: Violence is the question.",
         "{A}: What?",
         "{B}, bolting away: And the answer is yes.",
-        "{A}, running after them: NO-"
+        "{A}, running after {B}: NO-"
       ],
       "ship": false,
       "author": "N/A"
@@ -1660,7 +1660,7 @@
     "qzydx": {
       "lines": [
         "{A}: Please, I'm begging you go to a doctor.",
-        "{B}: I'm sorry is this OUR stab wound? Stay out of it."
+        "{B}: I'm sorry is this OUR stab wound? Stay out of it!"
       ],
       "ship": false,
       "author": "N/A"
@@ -1966,10 +1966,10 @@
     },
     "gbgly": {
       "lines": [
-        "{A}: HELP! I TOLD {C} I’D COOK DINNER TONIGHT BUT I CAN’T COOK! ",
+        "{A}: HELP! I TOLD {C^} I’D COOK DINNER TONIGHT BUT I CAN’T COOK! ",
         "{B}, pouring milk directly into the cereal bag: And you thought I could help?"
       ],
-      "ship": false,
+      "ship": true,
       "author": "N/A"
     },
     "nbhty": {
@@ -1981,26 +1981,26 @@
         "{A}:",
         "{C}: Don't ever lie to my face again."
       ],
-      "ship": false,
+      "ship": true,
       "author": "N/A"
     },
     "kadqn": {
       "lines": [
-        "{A}: I know you snuck out last night, {B}. ",
-        " {C}: Play dumb! ",
-        " {B}: Who's {B}? ",
-        " {C}: NOT THAT DUMB!!!"
+        "{A}: I know you snuck out last night, {B}.",
+        "{C}: Play dumb!",
+        "{B}: Who's {B}?",
+        "{C}: NOT THAT DUMB!!!"
       ],
       "ship": false,
       "author": "N/A"
     },
     "jzuvq": {
       "lines": [
-        "{A}: {C} and I are having a baby. ",
-        " {B}: That's gre- ",
-        " {A}, slamming adoption papers on the table: It's you, sign here."
+        "{A}: {C} and I are having a baby.",
+        "{B}: That's gre-",
+        "{A}, slamming adoption papers on the table: It's you, sign here."
       ],
-      "ship": false,
+      "ship": true,
       "author": "N/A"
     },
     "ssepz": {
@@ -2079,7 +2079,7 @@
         " {B}: I'm a knife. ",
         " {C}, from across the room: They're the little spoon."
       ],
-      "ship": false,
+      "ship": true,
       "author": "N/A"
     },
     "kgzec": {
@@ -2188,7 +2188,7 @@
         "{A}, flustered: I-",
         "{C}, from across the room: I'm doing great, thanks!"
       ],
-      "ship": false,
+      "ship": true,
       "author": "N/A"
     },
     "oytxd": {
@@ -2526,7 +2526,7 @@
         "{B}: I don’t know, love you, talk to you later",
         "{A}: Ok, I love you too, I’ll just ask {C}."
       ],
-      "ship": false,
+      "ship": true,
       "author": "N/A"
     },
     "lhwgn": {
@@ -2541,9 +2541,9 @@
     },
     "suzrq": {
       "lines": [
-        "{A}: {C}, my old arch enemy.",
-        "{B}: ... I thought I was your arch enemy?",
-        "{A}: I have a life outside of you, {B}."
+        "{A}: Ah yes, {C}, my old arch enemy...",
+        "{B}: ...I thought I was your arch enemy?-",
+        "{A}: I have a life *outside* of you, {B}."
       ],
       "ship": false,
       "author": "N/A"
@@ -2624,7 +2624,7 @@
         "{A}: If {B} and I were drowning, who would you save?",
         "{C}: You two can’t swim?",
         "{B}: It’s a hypothetical question, {C}! who would you save?",
-        "{C}: my time and effort."
+        "{C}: My time and effort."
       ],
       "ship": false,
       "author": "N/A"
@@ -2644,14 +2644,14 @@
   "4": {
     "achre": {
       "lines": [
-        "{A}: [shouting over the noise] How do we communicate in an emergency?",
+        "{A}, shouting over the noise: How do we communicate in an emergency?",
         "{B}: You've got to shout!",
-        "{A}: [louder] Is there a communication cord to stop the train?",
+        "{A}, louder: Is there a communication cord to stop the train?",
         "{C}: Yes, yes, yes.",
         "{B}: Where is it?",
         "{C}: I'm going to check it, as I'm about to ask the driver, {D}, to slow down a little bit, just while we're serving the drinks.",
         "[{C} proceeds to open the front window]",
-        "{C}: [shouting] {D}! {D}!!!"
+        "{C}, shouting: {D}! {D}!!!"
       ],
       "ship": false,
       "author": "The Priors"
@@ -2746,14 +2746,14 @@
     },
     "uswba": {
       "lines": [
-        "{A}: Truth or dare? ",
-        " {B}: Dare ",
-        " {A}: I dare you to kiss the hottest person in the room ",
-        " {B}: Hey {C} ",
-        " {C}, blushing: Yeah? ",
-        " {B}: Could you move? I’m trying to get to {D}"
+        "{A}: Truth or dare?",
+        "{B}: Dare",
+        "{A}: I dare you to kiss the hottest person in the room",
+        "{B}: Hey {C}",
+        "{C}, blushing: Yeah?",
+        "{B}: Could you move? I’m trying to get to {D}"
       ],
-      "ship": false,
+      "ship": true,
       "author": "N/A"
     },
     "barig": {
@@ -2772,7 +2772,7 @@
         " {A}: Shit. ",
         " {B}: Wait, three? ",
         " Cop: Yeah? ",
-        " {C}: OH MY GOD {J} FELL OFF!!!"
+        " {C}: OH MY GOD {D} FELL OFF!!!"
       ],
       "ship": false,
       "author": "N/A"
@@ -3080,7 +3080,7 @@
         "{A}: Hm? Oh yeah, I’m fine. It wasn’t my relationship.",
         "*{C} and {D} fighting from across the room*"
       ],
-      "ship": false,
+      "ship": true,
       "author": "N/A"
     },
     "abned": {
@@ -3755,7 +3755,7 @@
         "{A}:",
         "{B}: Ohhh, toasty boy! Four- Five ovens!",
         "{A}:",
-        "{A}, fucking ECSTATIC: I AM SOMEONE WHO OWNS *<b>FIVE OVENS*<b>"
+        "{A}, fucking ECSTATIC: I AM SOMEONE WHO OWNS ***FIVE OVENS***"
       ],
       "ship": false,
       "author": "N/A"
@@ -3767,7 +3767,7 @@
         "{C}: Wait... Oh! I have a wedding to attend too!",
         "{D}: Oh, I have a wedding to attend as well",
         "{E}: I THINK WE ALL HAVE WEDDINGS TO ATTEND",
-        "{F}, panicked: *<b>I THINK I HAVE A WEDDING TO OFFICIATE*</b>"
+        "{F}, panicked: ***I THINK I HAVE A WEDDING TO OFFICIATE***"
       ],
       "ship": false,
       "author": "N/A"
