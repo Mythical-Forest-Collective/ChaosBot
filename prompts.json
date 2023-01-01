@@ -339,7 +339,9 @@
     "oguqe",
     "pgieg",
     "ntpjd",
-    "yuuhn"
+    "yuuhn",
+    "khsfo",
+    "xanaq"
   ],
   "1": {
     "mleed": {
@@ -1902,6 +1904,19 @@
       ],
       "ship": false,
       "author": "The Priors"
+    },
+    "xanaq": {
+      "lines": [
+        "{A}: We've been given our parts in the nativity play! And I'm the lobster!",
+        "{B}: The Lobster?",
+        "{A}: Yeah!",
+        "{B}, confused: In the nativity play?",
+        "{A}: Yeah! First Lobster!",
+        "{B}, still confused: There was more than one lobster present at the birth of Jesus?",
+        "{A}: Duh!"
+      ],
+      "ship": false,
+      "author": "The Priors"
     }
   },
   "3": {
@@ -2650,6 +2665,17 @@
       ],
       "ship": false,
       "author": "N/A"
+    },
+    "khsfo": {
+      "lines": [
+        "{C}: And this is {A}. They're new as well.",
+        "{A}: Hello {B}. I mean, Sir. Shit, I can't believe I've just said that. And now I've gone and said 'shit'. Twice. Oh, I'm so sorry Sir.",
+        "{B}: That's alright. You could have said 'fuck' and then we'd all be in trouble.",
+        "{A}: Thank you, Sir. I did have a terrible premonition I was going to fuck up on my first day.",
+        "{A}: Oh piss it!"
+      ],
+      "ship": false,
+      "author": "The Priors"
     }
   },
   "4": {
