@@ -338,7 +338,8 @@
     "pmdsp",
     "oguqe",
     "pgieg",
-    "ntpjd"
+    "ntpjd",
+    "yuuhn"
   ],
   "1": {
     "mleed": {
@@ -1891,6 +1892,16 @@
       ],
       "ship": false,
       "author": "N/A"
+    },
+    "yuuhn": {
+      "lines": [
+        "{A}: Now, we've got to be careful. I suspect one of us might be possessed by an owl.",
+        "{B}: Who?",
+        "{A}: That's just it, we-",
+        "{A}:"
+      ],
+      "ship": false,
+      "author": "The Priors"
     }
   },
   "3": {
