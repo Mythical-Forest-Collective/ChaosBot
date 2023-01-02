@@ -417,7 +417,22 @@
     "ysfon",
     "xijxd",
     "fmtqf",
-    "aanex"
+    "aanex",
+    "huyyu",
+    "rdvfn",
+    "mjkgr",
+    "bjrjy",
+    "yotto",
+    "wkqwi",
+    "ycvzb",
+    "hjsie",
+    "whdma",
+    "atcdd",
+    "gajra",
+    "tomdr",
+    "sbdqf",
+    "ttvbx",
+    "qrewe"
   ],
   "1": {
     "mleed": {
@@ -774,6 +789,14 @@
       ],
       "author": "The Priors",
       "tags": []
+    },
+    "wkqwi": {
+      "lines": [
+        "[observing the approach of a storm]",
+        "{A}: In the immortal words of Basil Fawlty, \"Oh spiffing!\""
+      ],
+      "author": "Ponyboy",
+      "tags": []
     }
   },
   "2": {
@@ -792,7 +815,7 @@
     "osxqr": {
       "lines": [
         "{A}'s voiceover: As dawn broke, the peace and serenity of this beautiful Ugandan morning was shattered by the bellow of a wild animal.",
-        "{B}, Positively *furious*: ***{A}!!!***"
+        "{B}, positively *furious*: ***{A}!!!***"
       ],
       "author": "The Priors",
       "tags": []
@@ -2439,6 +2462,56 @@
       ],
       "author": "The Priors",
       "tags": []
+    },
+    "rdvfn": {
+      "lines": [
+        "[{A} walks into a room full of alternate-reality {B}s]",
+        "{A}: {B}!",
+        "[All the {B}s turn around]",
+        "{A}: *My* {B}."
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "yotto": {
+      "lines": [
+        "{A}: Uh oh.",
+        "{B}: What's \"uh oh\"?",
+        "{A}: Nothing happened.",
+        "{B}: Is that a good thing or a bad thing?",
+        "[there is a scream off screen]",
+        "{A} & {B}: Bad."
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "atcdd": {
+      "lines": [
+        "{A}: What kind of archaeologist carries a weapon?",
+        "{B}: Uh, I do.",
+        "[pause]",
+        "{A}: Bad example."
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "tomdr": {
+      "lines": [
+        "{A}: Given the chance, half of all American citizens won't even vote, and the half that do vote are too stupid to know what they're doing.",
+        "{B}: Which explains how you got elected."
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "ttvbx": {
+      "lines": [
+        "[{B} exhales]",
+        "{A}: Something wrong?",
+        "{B}: No. I've just never blown up a star before.",
+        "{A}: Well, they say the first one's always the hardest."
+      ],
+      "author": "The Priors",
+      "tags": []
     }
   },
   "3": {
@@ -3412,6 +3485,102 @@
       ],
       "author": "Ponyboy",
       "tags": []
+    },
+    "huyyu": {
+      "lines": [
+        "[On the Ford EcoSport]",
+        "{C}: Well, hang on, that's not going to work. Because we know the voice recognition in cars is rubbish. It never works, does it? So, if you just say, \"The Police\", it will probably actually ring the police.",
+        "{A}: No, it will! It will, it will! Because this car's got a feature on it that if you have an accident or get into problems, it calls the emergency services for you.",
+        "{B}: Well, that's just a recipe for disaster.",
+        "{A}: You'll be sitting there going, \"Right, get the fire brigade,\" and it would play The Move! [singing] \"Get the fire brigade, get the fire brigade —\"",
+        "{B}: \"Oh, I'm in trouble, help!\" [singing] \"I need somebody, help!\" What a terrible way to die, trapped in your car, listening to all the embarrassing rubbish on your iPod."
+      ],
+      "author": "Ponyboy",
+      "tags": []
+    },
+    "mjkgr": {
+      "lines": [
+        "{A}: Oh its far worse for you, I no longer have any reason to keep you alive.",
+        "{B}: No, wait! I-I-I can think of a reason.",
+        "{C} after an awkward pause, looks to {B}: We're more valuable alive.",
+        "{B}: Ah. Yes! We're more valuable alive. Good one.",
+        "{C}, silently: Yeah."
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "bjrjy": {
+      "lines": [
+        "{A}: You have been impregnated, without copulation.",
+        "{B}: Yes! And I'm absolutely terrified - have any of you ever heard anything like it?",
+        "{C}: W-Well.. there is one.",
+        "{A}: Darth Vader.",
+        "{B}: Really? How did that turn out?",
+        "{C}: Well, actually, I was thinking about King Arthur."
+      ],
+      "author": "The Priors",
+      "tags": [
+        "explicit"
+      ]
+    },
+    "ycvzb": {
+      "lines": [
+        "{A}: So, what's your impression of {C}?",
+        "{B}: That they are concealing something.",
+        "{A}: Like what?",
+        "{B}: I am unsure. They are concealing it."
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "whdma": {
+      "lines": [
+        "{A}: ...Anyway, that's just how I feel about it. [pause] What do you think? [he looks expectantly at {B}]",
+        "[{B} looks confused]",
+        "{B}: What?",
+        "{A}: ...What do you think?",
+        "{B}: About what?",
+        "{C}: Something wrong?",
+        "[{B} looks around, disoriented]",
+        "{B}: ...Maybe.",
+        "{B}: ...Weren't we just somewhere else?",
+        "{A}: Where?",
+        "{B}: Some planet.",
+        "{A}: When?",
+        "{B}: Just now.",
+        "{A}: No.",
+        "{B}: Sure?",
+        "{A}: Yeah.",
+        "[{B} looks around, confused]",
+        "{B}: ...Everything just changed."
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "gajra": {
+      "lines": [
+        "{A}: If you're implying that everything Russian-made is of poor quality, the sub is Swiss.",
+        "{B}: So it occasionally catches fire but keeps perfect time? [pause] Sorry. I think I've been hanging around {C} too much.",
+        "...",
+        "{A}: The gauge must be malfunctioning.",
+        "{B}: But it's Swiss."
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "qrewe": {
+      "lines": [
+        "{A}: [faking concern] Oh, no! No one's mingling! It's like... there’s some kind of underlying tension that could bubble to the surface at any minute.",
+        "{C}: It’s the fruit punch, isn’t it? I knew I used too much grape juice!",
+        "{A}: It’s not the fruit punch! It’s us!",
+        "{B}: But the punch is awful too.",
+        "{C}: What do you know about good fruit punch?!",
+        "{B}: More than you.",
+        "{C}: Do not.",
+        "{B}: Do too!"
+      ],
+      "author": "The Priors",
+      "tags": []
     }
   },
   "4": {
@@ -3957,6 +4126,17 @@
       ],
       "author": "The Priors",
       "tags": []
+    },
+    "sbdqf": {
+      "lines": [
+        "{A}: {B}, do you recognize any of this?",
+        "{B}: I do not, {A}.",
+        "{A}: {C}?",
+        "{C}: I don't recognize it either.",
+        "{D}: Nope, neither do I. [Everyone looks at {D}] I'm just sayin'."
+      ],
+      "author": "The Priors",
+      "tags": []
     }
   },
   "5": {
@@ -4356,6 +4536,21 @@
         "{A}: Oh, come on!",
         "{B}: We have normality.",
         "{C}: [now normal, pulling a strand of yarn from their mouth] Did it work, are we there?"
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "hjsie": {
+      "lines": [
+        "{A}: General, about the obviously impending court martials...",
+        "{B}: You were all under the influence of an alien technology, {A}. That's a pretty solid defense.",
+        "{A}: Even so, I'm sorry.",
+        "{C}: Me too.",
+        "{D}: Me three.",
+        "[Pause, {E} glances at the others]",
+        "{E}: [smugly] I have no need to apologize.",
+        "{B}: {E} was actually following orders.",
+        "{A}: Of course they were."
       ],
       "author": "The Priors",
       "tags": []

@@ -68,13 +68,13 @@ def genId():
 
   return result
 
-print(f"{Colours.GREEN}Input the prompt below.")
+print(f"{Colours.GREEN}Input the prompt below.{Colours.BLUE}")
 
 prompt = ""
 characters = 0
 
 while True:
-  line = input(Colours.BLUE)
+  line = input()
 
   if line.strip() == "":
     break
