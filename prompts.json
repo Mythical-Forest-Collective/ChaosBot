@@ -374,7 +374,37 @@
     "izips",
     "zvazd",
     "aggxv",
-    "pdegj"
+    "pdegj",
+    "smnnk",
+    "lwehw",
+    "ilccs",
+    "bboir",
+    "xcxuk",
+    "xrqjk",
+    "voogq",
+    "fkcoq",
+    "bagut",
+    "cysqw",
+    "txkzo",
+    "iylvi",
+    "rgiju",
+    "pbiyw",
+    "xkanv",
+    "vtxrt",
+    "dowdq",
+    "gyswr",
+    "vtozz",
+    "eyldw",
+    "veqep",
+    "dtlne",
+    "mtvuz",
+    "gheln",
+    "mnela",
+    "gczzo",
+    "foeaq",
+    "cscqs",
+    "qcaim",
+    "gwvbq"
   ],
   "1": {
     "mleed": {
@@ -672,6 +702,58 @@
       "tags": [
         "ship"
       ]
+    },
+    "cysqw": {
+      "lines": [
+        "{A}: I’ve been pretending to be a tree for over an hour now!"
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "iylvi": {
+      "lines": [
+        "{A}: I fear I may have girlbossed a little too close to the sun."
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "vtozz": {
+      "lines": [
+        "{A}: Would I ever swear on stream?",
+        "{A}: I'd never fucking swear!"
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "veqep": {
+      "lines": [
+        "{A}: I just said 'hello baby'.",
+        "{A}: To a block.",
+        "{A}: In Minecraft."
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "mnela": {
+      "lines": [
+        "{A} [about children]: Human puppies."
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "foeaq": {
+      "lines": [
+        "{A}: Urgh {A}'s starting another war."
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "cscqs": {
+      "lines": [
+        "{A}: We can't have that voice on my good christian bale minecraft server."
+      ],
+      "author": "The Priors",
+      "tags": []
     }
   },
   "2": {
@@ -2130,6 +2212,171 @@
       ],
       "author": "Sabe",
       "tags": []
+    },
+    "smnnk": {
+      "lines": [
+        "{A}: There was just too much to deal with. It was like nothing made sense anymore. The things that I thought I understood were gone. I just felt so alone...",
+        "{B}: Was that the math or the verbal?",
+        "{A}: Mostly the math"
+      ],
+      "author": "Sabe",
+      "tags": []
+    },
+    "lwehw": {
+      "lines": [
+        "{A}: Is this town any better than when I first came here? Okay, so I battle evil. But I don't really win. The bad keeps coming back and getting stronger. Like that kid in the story, the boy that stuck his finger in the duck.",
+        "{B}: Dike.",
+        "*[{A} looks startled]*",
+        "{B}: It's another word for \"dam.\"",
+        "{A}: Oh. Okay, that story makes a lot more sense now."
+      ],
+      "author": "Sabe",
+      "tags": [
+        "explicit"
+      ]
+    },
+    "ilccs": {
+      "lines": [
+        "{A}: Actually, I *do* have a date. Older man. Very handsome. Likes it when I call him \"Daddy.\"",
+        "{B}: *[looking relieved]*  Your father.",
+        "{A}:",
+        "{B}: ...It is your father, right?"
+      ],
+      "author": "Sabe",
+      "tags": [
+        "explicit",
+        "ship",
+        "?"
+      ]
+    },
+    "bboir": {
+      "lines": [
+        "{A}: I can read thoughts.",
+        "{B}, thinking: I am my thoughts. If they exist in them, {A} contains everything that is me and they become me. I cease to exist.",
+        "{B}, out loud: Huh."
+      ],
+      "author": "Sabe",
+      "tags": []
+    },
+    "xcxuk": {
+      "lines": [
+        "{A}: Why are you digging into me hole? {B}'s digging into me hole!"
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "xrqjk": {
+      "lines": [
+        "{A}: There's a risk of death at any point today? This feels dangerous...",
+        "{B}: Hanging out with me {A}, there's always a risk of death."
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "voogq": {
+      "lines": [
+        "{A}: Hey wait a second {B}, stand- stand there, take your pants off-"
+      ],
+      "author": "The Priors",
+      "tags": [
+        "ship",
+        "explicit"
+      ]
+    },
+    "txkzo": {
+      "lines": [
+        "{A}: Have you spoken to anyone about your memory?",
+        "{B}: My memory’s terrible, I know.",
+        "{A}: I know; but have you spoken to anyone about it? Or could you not remember?",
+        "{B}: Spoken to anyone about what?"
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "rgiju": {
+      "lines": [
+        "{A}: Can I have dead things?",
+        "{B}: Oh yeah.",
+        "{A}: Yay! :D"
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "vtxrt": {
+      "lines": [
+        "{A}: I blame the schools.",
+        "{B}: I blame you."
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "gyswr": {
+      "lines": [
+        "{A}: There's no problem that cannot be solved by chocolate!",
+        "{B}: I think I'm gonna barf...",
+        "{A}: Except that!"
+      ],
+      "author": "Sabe",
+      "tags": []
+    },
+    "eyldw": {
+      "lines": [
+        "In game {B} to {A}: HALLO WONDERFUL PERSON!",
+        "{A} to {B} on twitter: I will run your foot over with my wheelchair."
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "dtlne": {
+      "lines": [
+        "{A}: Keep eye contact. Funny is good, but don't be glib. And remember, if you hurt her, I will beat you to death with a shovel.",
+        "*[{B} looks back at them, very surprised]*",
+        "{A}: A vague disclaimer is nobody's friend. Have fun"
+      ],
+      "author": "Sabe",
+      "tags": []
+    },
+    "mtvuz": {
+      "lines": [
+        "{A}: {B} do you think im ugly?",
+        "{A}: The silence is deafening."
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "gheln": {
+      "lines": [
+        "{A}: Is everything behaving as normal?",
+        "{B}: {B} isn't."
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "gczzo": {
+      "lines": [
+        "{A}: Trying to leave {B}'s base with 30-50 feral dogs"
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "qcaim": {
+      "lines": [
+        "{A}: Can anyone sleep please?",
+        "{B}: *Looks over at nether bed*"
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "gwvbq": {
+      "lines": [
+        "{A}: I went over and got some of {B}'s milk.",
+        "{A}: Well I mean, not some of {B}'s milk-",
+        "{A}: It was {B}'s cows!"
+      ],
+      "author": "The Priors",
+      "tags": [
+        "explicit"
+      ]
     }
   },
   "3": {
@@ -2283,7 +2530,7 @@
     },
     "gsdhb": {
       "lines": [
-        "{A}: You have to apologize to {B}",
+        "{A}: You have to apologize to {B}!",
         "{C}: Fine.",
         "{C}: 'Unfuck you' or whatever."
       ],
@@ -2292,10 +2539,10 @@
     },
     "vzbnl": {
       "lines": [
-        "{A}: Dandelions symbolize everything I want to be in life",
+        "{A}: Dandelions symbolize everything I want to be in life.",
         "{B}: Fluffy and dead with a gust of wind?",
         "{A}: Unapologetic. Hard to kill. Feral, filled with sunlight, bright, beautiful in a way that the conventional and controlling hate but cannot ever fully destroy. Stubborn. Happy. Bastardous. Friends with bees. Highly disapproving of lawns. Full of wishes that will be carried far after I die.",
-        "{C}: edible"
+        "{C}: Edible :)"
       ],
       "author": "N/A",
       "tags": []
@@ -3007,6 +3254,48 @@
       ],
       "author": "Sabe",
       "tags": []
+    },
+    "fkcoq": {
+      "lines": [
+        "{C}: Here’s a diamond and an insult!",
+        "{A}: A little one for you! Yeah, see? You too can have achievements!",
+        "{B}: Did you just say “little one” for me?",
+        "{A}: Well…",
+        "{B}: Is that a short joke?",
+        "{A}: It’s a- it’s a five foot eight diamond, right?",
+        "{B}: Five ten! So-! Five-! Is there lava flowing?",
+        "{A}: If you make some diamond heels you’ll be five ten!"
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "bagut": {
+      "lines": [
+        "{A}: {B}, you ok?",
+        "{A}: We lost a {B}!",
+        "{A}, singing: {B} are you ok? {B} are you ok?",
+        "{A} and {C}, singing: Are you ok {B}?"
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "pbiyw": {
+      "lines": [
+        "{A}: lets face it. The real threat to our spawners is not mobs.",
+        "{B}: Its {C}.",
+        "{C}: It's me."
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "xkanv": {
+      "lines": [
+        "{A}: God this poison is annoying! who would've thought!",
+        "{B}: Yeah, yeah the poison is a little bit irritating.",
+        "{C}: Poison is an irritant and other news out of Britain at 11!"
+      ],
+      "author": "The Priors",
+      "tags": []
     }
   },
   "4": {
@@ -3524,6 +3813,17 @@
         "{C}: Yes. Well..."
       ],
       "author": "Sabe",
+      "tags": []
+    },
+    "dowdq": {
+      "lines": [
+        "{A} talking about {D}: Yeah i was hoping he would come and yell us like:",
+        "{A} in a terrible accent: Dont you understand i have a baybe! I do not have all day for the enchaaants!",
+        "{C}: Wow, what an absolutely terrible {D}.",
+        "{B}: That's almost offensive, {A}.",
+        "{B}: That's- that's impressive."
+      ],
+      "author": "The Priors",
       "tags": []
     }
   },
