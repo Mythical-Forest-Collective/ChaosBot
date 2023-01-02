@@ -17,7 +17,11 @@ with open('prompts.json') as f:
 
 id = input("What prompt (indexed by IDs) do you want to edit? ").lower().strip()
 
-tags = input("What tags do you want to add? (Space-separated list) ").lower().strip().split(' ')
+tags = input("What tags do you want to add? (Space-separated list) ").lower().strip()
+if tags == "":
+  tags = []
+else:
+  tags = tags.split(' ')
 
 chars = "0"
 for i in range(1, 7):

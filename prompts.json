@@ -363,7 +363,18 @@
     "pstug",
     "lhofq",
     "wszam",
-    "hilgh"
+    "hilgh",
+    "aaryy",
+    "kkhmw",
+    "xnumy",
+    "yczrd",
+    "ekexp",
+    "bpygo",
+    "kjzrc",
+    "izips",
+    "zvazd",
+    "aggxv",
+    "pdegj"
   ],
   "1": {
     "mleed": {
@@ -658,7 +669,9 @@
         "{A}, while playing Gran Turismo 4: I am going to pick a track, we'll go for a real one... Laguna Seca, and now we have to pick a car. TVR Tuscan, nope, too much of a handful. Aston Martin DB9. That's not a racing car, that's just pornography."
       ],
       "author": "Ponyboy",
-      "tags": ["ship"]
+      "tags": [
+        "ship"
+      ]
     }
   },
   "2": {
@@ -2051,6 +2064,72 @@
       ],
       "author": "The Priors",
       "tags": []
+    },
+    "ekexp": {
+      "lines": [
+        "{A}: Grave robbing? That's new. Interesting.",
+        "{B}: I know you meant to say \"gross and disturbing.\"",
+        "{A}: Yes, of course. Terrible thing. Must put a stop to it... Dammit."
+      ],
+      "author": "Sabe",
+      "tags": []
+    },
+    "bpygo": {
+      "lines": [
+        "{A}: I wasn't gonna use violence. I don't always use violence... Do I?",
+        "{B}: The important thing is *you* believe that."
+      ],
+      "author": "Sabe",
+      "tags": []
+    },
+    "kjzrc": {
+      "lines": [
+        "{A}: So do you guys steal weapons from the army a lot?",
+        "{B}: Well, we don't have internet, so we have to make our own fun"
+      ],
+      "author": "Sabe",
+      "tags": []
+    },
+    "izips": {
+      "lines": [
+        "{A}: I'm naming all the stars...",
+        "{B}: You can't see the stars. That's the ceiling, {A}. Also, it's day.",
+        "{B}: I can see them. But I've named them all the same name, and there's terrible confusion."
+      ],
+      "author": "Sabe",
+      "tags": []
+    },
+    "zvazd": {
+      "lines": [
+        "{A}: Eww, what does this do?",
+        "{B}: It extracts vital organs to replenish its own mutating cells.",
+        "{A}: Wow! What does this one do?",
+        "{B}: It elongates its mouth to engulf its victim's head with its incisors.",
+        "{A}: Ouch! Wait, what does this one do?",
+        "{B}, incredibly irritated: It asks endless questions of those with whom it's supposed to be working so that nothing is getting done.",
+        "{A}: Boy, there's a demon for everything!"
+      ],
+      "author": "Sabe",
+      "tags": []
+    },
+    "aggxv": {
+      "lines": [
+        "{A}: So, something ripped him open and ate out his insides?",
+        "{B}: Like an Oreo cookie, well, except for, you know, without the... chocolatey cookie goodness..."
+      ],
+      "author": "Sabe",
+      "tags": [
+        "explicit"
+      ]
+    },
+    "pdegj": {
+      "lines": [
+        "{A}: It's a trick. They get inside my head, make me see things I want.",
+        "{B}: Then why would they make you see me?",
+        "{A}: Oh, right. Let's go."
+      ],
+      "author": "Sabe",
+      "tags": []
     }
   },
   "3": {
@@ -2912,6 +2991,22 @@
       ],
       "author": "The Priors",
       "tags": []
+    },
+    "aaryy": {
+      "lines": [
+        "{A}: Why would anyone want to hurt {B}?",
+        "{C}: Maybe because they met them."
+      ],
+      "author": "Sabe",
+      "tags": []
+    },
+    "xnumy": {
+      "lines": [
+        "{A}: {B}, I, uh, I, I know we've had our differences, with you being so weird and all, and hanging out with these total losers... Well, anyway, despite all of that, I know that you share this feeling that we have for each other, deep down...",
+        "{C}: Nausea?"
+      ],
+      "author": "Sabe",
+      "tags": []
     }
   },
   "4": {
@@ -3408,6 +3503,27 @@
         "{D}: No, it does not."
       ],
       "author": "The Priors",
+      "tags": []
+    },
+    "kkhmw": {
+      "lines": [
+        "{A}: Our dreams are coming true.",
+        "{B}: Dreams? That would be a musical comedy version of this. Our nightmares. Our nightmares are coming true.",
+        "{C}: So why is this happening?",
+        "{B}: {D}.",
+        "{A}: Well. That explanation was shorter than usual."
+      ],
+      "author": "Sabe",
+      "tags": []
+    },
+    "yczrd": {
+      "lines": [
+        "{A}: What's making {B} act like such a B-I-T-C-H?",
+        "{C}: {A}, I think we're a little old to be spelling words out.",
+        "{D}: A... \"bitca\"?",
+        "{C}: Yes. Well..."
+      ],
+      "author": "Sabe",
       "tags": []
     }
   },

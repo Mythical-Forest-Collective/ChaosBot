@@ -81,7 +81,11 @@ def quote_generator(a: desc, b: desc=None,
 
   e = Embed(title="Incorrect Quote!", description=prompt, color=Color.random())
 
-  e.add_footer(f"Prompt key: {key}")
+  ext = " | Tags: None"
+  if len(prompts[str(count)][key]['tags']) != 0:
+    ext = f" | Tags: {', '.join(prompts[str(count)][key]['tags'])}"
+
+  e.add_footer(f"Prompt key: {key}{ext}")
 
   if prompts[str(count)][key]['author'] != 'N/A':
     e.add_author(f"Prompt from {prompts[str(count)][key]['author']}")
@@ -91,5 +95,5 @@ def quote_generator(a: desc, b: desc=None,
 @Chaos.interactions(is_global=True)
 async def incorrect_quote_generator(a: desc, b: desc=None,
     c: desc=None, d: desc=None, e: desc=None, f: desc=None,
-    exclude_tags: ('str', 'Valid tags to exclude in a space-separated format are `ship` and `explicit`.')=False):
+    exclude_tags: ('str', 'Valid tags to exclude in a space-separated format are `ship` and `explicit`.')=""):
   return quote_generator(a, b, c, d, e, f, exclude_tags)
