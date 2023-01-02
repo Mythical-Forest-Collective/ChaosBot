@@ -404,7 +404,20 @@
     "foeaq",
     "cscqs",
     "qcaim",
-    "gwvbq"
+    "gwvbq",
+    "kwytn",
+    "kdzpf",
+    "nexum",
+    "qlqxs",
+    "jbrny",
+    "eibim",
+    "lyvbd",
+    "mvfsu",
+    "xrvmq",
+    "ysfon",
+    "xijxd",
+    "fmtqf",
+    "aanex"
   ],
   "1": {
     "mleed": {
@@ -751,6 +764,13 @@
     "cscqs": {
       "lines": [
         "{A}: We can't have that voice on my good christian bale minecraft server."
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "lyvbd": {
+      "lines": [
+        "{A}, looking in a mirror: It's like looking in a mirror!"
       ],
       "author": "The Priors",
       "tags": []
@@ -2377,6 +2397,48 @@
       "tags": [
         "explicit"
       ]
+    },
+    "eibim": {
+      "lines": [
+        "{A}: we can get together for dinner",
+        "{B}: dude, I have a gf",
+        "{A}: she can come too"
+      ],
+      "author": "The Priors",
+      "tags": [
+        "ship"
+      ]
+    },
+    "ysfon": {
+      "lines": [
+        "{A}: Huh. Maybe it wasn't our fault.",
+        "{B}: I thought it was always our fault."
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "xijxd": {
+      "lines": [
+        "{A}: honk.",
+        "{B}: WHAT.",
+        "{A}: HONK.",
+        "{B}: WHAT DOES HONK MEAN THIS TIME YOU WHIMSICAL PIECE OF SHIT?????"
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "aanex": {
+      "lines": [
+        "{A}: There's something i gotta ask...",
+        "{A}: About u know who...",
+        "{B}: Voldemort?",
+        "{A}: No.",
+        "{B}: Is it Voldemort?",
+        "{A}: It's not Voldemort!",
+        "{B}: You havent mentioned wizards once this conversation so im gonna have to assume its Voldemort."
+      ],
+      "author": "The Priors",
+      "tags": []
     }
   },
   "3": {
@@ -3296,6 +3358,60 @@
       ],
       "author": "The Priors",
       "tags": []
+    },
+    "nexum": {
+      "lines": [
+        "{C}: Please ask this.",
+        "{A}: Alright, {B}, listen. Every single one of us had to answer this question. Ok?",
+        "{B}: I'm ready- I'm ready for anything, {A}. My heart is an open book, the atriums are pages- there's only four of them, so...you know, don't pump too hard.",
+        "{A}: Alright! Well, uh, this is the most intelligent question of the evening, it has pushed scholars over the edge trying to answer this one.",
+        "{A}: {B}. Pee in the shower? Yes or no?",
+        "[{B} left the game]"
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "jbrny": {
+      "lines": [
+        "{A}: you popsicle head e day didoo kitty loo",
+        "{A}: i will eat the tv",
+        "[{B} went to bed. Sweet Dreams]",
+        "{A}: i will put foam on your phone to make a phone foam sandwich",
+        "{A}: soorry, uh, tea is no good to watch",
+        "{A}: and I like to watch tv every day",
+        "{A}: i will abc on the knee to the babies, abc, sing",
+        "{B}: you ok over there {A}? blink twice if you need help?",
+        "{A}: abcdefghijklmnopqrstuvwxyz",
+        "{A}: this is {A}'s child {C}",
+        "{A}: {A} and kitties",
+        "{A}: am I helping with the video"
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "xrvmq": {
+      "lines": [
+        "{A}: Colonel {B}. At times you remind me of {C}.",
+        "Colonel {B}: Ah, well, I'll take that as a compliment.",
+        "{A}: As you wish."
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "fmtqf": {
+      "lines": [
+        "[While waiting for {B} in their Morgan Threewheeler to pass by]",
+        "{B}: Come on, my little three-wheeled friend.",
+        "{C}: Here they come, ladies and gentlemen.",
+        "{A}: Here they come...",
+        "{C}: Doff your hats, roll out the barrel...",
+        "{A} & {C}, dancing and singing Any Old Iron: Any old iron, any old iron, any, any, any old iron...",
+        "{B}: I am going to give it the full Stirling Moss. Ya-a-ah!",
+        "{A}: Did you see them clinging on with their elbow? You could see the sinews in their arm.",
+        "{C}: The sound is from the 1930s. Did the picture go black and white as they went past?"
+      ],
+      "author": "Ponyboy",
+      "tags": []
     }
   },
   "4": {
@@ -3825,6 +3941,22 @@
       ],
       "author": "The Priors",
       "tags": []
+    },
+    "kdzpf": {
+      "lines": [
+        "{A}: Do you go through a car wash {B}?",
+        "{A}: Just run through a car wash?",
+        "{B}: [laughs] Yeah I just run through a car wash now and again.",
+        "[Everyone laughs]",
+        "{D}: Windows down!",
+        "{C}: Dude, that'd be amazing for a wheelchair right, a car wash?",
+        "{C}: You don't have to get out of your chair, you just roll right in and out of the car wash? That, right there...",
+        "{D}: You need to take your new ride, {C}, and just roll right through!",
+        "{C}: Dude, this could be like a business opportunity, like, uh, a wheelchair shower!",
+        "{C}: Just convert a car wash!"
+      ],
+      "author": "The Priors",
+      "tags": []
     }
   },
   "5": {
@@ -4197,6 +4329,36 @@
       ],
       "author": "The Priors",
       "tags": []
+    },
+    "qlqxs": {
+      "lines": [
+        "{A}: Pineapple on pizza, yes or no? Go!",
+        "{B}: Yes. Every time.",
+        "{C}: Nice, nice.",
+        "{B}: I am the most unfussy eater. I love food, so anything’s good. But here’s one for you, {A}. Kiwi on pizza?",
+        "{A}: (horrified) OH, god!",
+        "{C}: KIWI?",
+        "{D}: You are all horrible people.",
+        "{E}: Just monsters."
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "mvfsu": {
+      "lines": [
+        "{A}: Wow...is this gonna happen every time we...we hit that button?",
+        "{B}: Very probably, yes.",
+        "[{C} stumbles onto the bridge]",
+        "{D}: Ah, I think {C}'s about to be sick.",
+        "{A}: Whoa, whoa, do it in the trash can, {C}! This ship's brand new!",
+        "[{C} vomits colored yarn into the can]",
+        "{E}: Oh, dear.",
+        "{A}: Oh, come on!",
+        "{B}: We have normality.",
+        "{C}: [now normal, pulling a strand of yarn from their mouth] Did it work, are we there?"
+      ],
+      "author": "The Priors",
+      "tags": []
     }
   },
   "6": {
@@ -4529,6 +4691,23 @@
       "lines": [
         "{A} and {B}: Come play with us!~",
         "{C} to {D}, {E}, and {F}: We are *not* going that way."
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "kwytn": {
+      "lines": [
+        "{A}: They take a bAAth [in imitation of an English accent) They like their bAAth.",
+        "{B}: It's not hygienic, is it {C}?",
+        "{D}: Are you a bather then? Are you a bather?",
+        "{C}: No, no, not- [pauses]",
+        "{A}: -wait.",
+        "{E}: Just... 'No'.",
+        "{D}: Just a no-washer.",
+        "{F}: Just... just no bathing.",
+        "{A}: No shower, no bAAth, what do you do?",
+        "{D}: Hehe, bAAth.",
+        "{F}: He just rolls around in the dust every month."
       ],
       "author": "The Priors",
       "tags": []
