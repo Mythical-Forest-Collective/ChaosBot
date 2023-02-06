@@ -432,7 +432,8 @@
     "tomdr",
     "sbdqf",
     "ttvbx",
-    "qrewe"
+    "qrewe",
+    "lrpzd"
   ],
   "1": {
     "mleed": {
@@ -2509,6 +2510,16 @@
         "{A}: Something wrong?",
         "{B}: No. I've just never blown up a star before.",
         "{A}: Well, they say the first one's always the hardest."
+      ],
+      "author": "The Priors",
+      "tags": []
+    },
+    "lrpzd": {
+      "lines": [
+        "{A}: {B}, it's me again.",
+        "{B}: Who? Oh, that's right. The leetspeaking blind one. Go away!",
+        "{A}: {B}, don't make fun of my handicap!",
+        "{B}: Which one, the blindness or the leetspeak?"
       ],
       "author": "The Priors",
       "tags": []
