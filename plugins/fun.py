@@ -13,6 +13,7 @@ desc = ('str', 'Name for the generator')
 @Chaos.interactions(is_global=True)
 async def reload_prompts(client, event):
   global prompts
+
   if not client.is_owner(event.user):
     yield "You don't have the permissions to do this!"
     return
@@ -24,6 +25,7 @@ async def reload_prompts(client, event):
       prompts = jload(f)
 
     yield "Done!"
+
   except JSONDecodeError as e:
     yield f"Got a `JSONDecodeError`! Error:```python\n{str(e)}```"
 

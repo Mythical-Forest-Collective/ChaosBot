@@ -433,7 +433,10 @@
     "sbdqf",
     "ttvbx",
     "qrewe",
-    "lrpzd"
+    "lrpzd",
+    "corjj",
+    "fvpuq",
+    "fhrve"
   ],
   "1": {
     "mleed": {
@@ -797,6 +800,22 @@
         "{A}: In the immortal words of Basil Fawlty, \"Oh spiffing!\""
       ],
       "author": "Ponyboy",
+      "tags": []
+    },
+    "corjj": {
+      "lines": [
+        "{A}: Hm. Well it certainly wouldn’t be my *first* attempted murder."
+      ],
+      "author": "Chronos",
+      "tags": []
+    },
+    "fhrve": {
+      "lines": [
+        "{A}: If no-one comes from the future to stop you from doing it, then how bad of a decision can it *really* be?",
+        "{A}, from the future, appearing from nowhere: WHATEVER YOU'RE ABOUT TO DO, DON'T!",
+        "{A}: ...oh"
+      ],
+      "author": "Chronos",
       "tags": []
     }
   },
@@ -4147,6 +4166,16 @@
         "{D}: Nope, neither do I. [Everyone looks at {D}] I'm just sayin'."
       ],
       "author": "The Priors",
+      "tags": []
+    },
+    "fvpuq": {
+      "lines": [
+        "{A}: When you steep tea leaves in water you make tea. but when you take a bath you steep yourself in water. ergo, you make human tea when you take a bath!",
+        "{B}: Does that mean that gamer girl bath water is really tea!?",
+        "{C}: Yeah, a poisoned one.",
+        "{D}: THE INTERNET WAS A *MISTAKE*!"
+      ],
+      "author": "Chronos",
       "tags": []
     }
   },
